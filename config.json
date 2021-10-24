@@ -1,0 +1,9 @@
+{
+	"ip":"simulasi2.aternos.me",
+	"port": "49927",
+	"name": "herobrine_0312",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register jkhdc7weye33 ",
+	"login-cmd":"/login jkhdc7weye33 "
+}
