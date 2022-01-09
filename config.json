@@ -1,9 +1,9 @@
 {
 	"ip":"kk.denomx.de",
 	"port": "42278",
-	"name": "herobrine_0312",
+	"name": "herobrine_0124",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register jkhdc7weye33 ",
-	"login-cmd":"/login jkhdc7weye33 "
+	"register-cmd":"/register jkhdc7weyc33 ",
+	"login-cmd":"/login jkhdc7weyc33 "
 }
